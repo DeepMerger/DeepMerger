@@ -1,5 +1,4 @@
-# DeepMerger <img src="https://raw.githubusercontent.com/deepmerger/deepmerger-brand/main/assets/logo/logo-dark.svg" width="64" height="64" alt="DeepMerger" />
-
+<img src="https://raw.githubusercontent.com/deepmerger/deepmerger-brand/main/assets/logo/logo-dark.svg" width="64" height="64" alt="DeepMerger" />
 ## What is DeepMerger
 
 **DeepMerger** is a battlefield intelligence platform that transforms fragmented data into **real-time operational clarity**.
