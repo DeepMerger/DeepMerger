@@ -1,6 +1,4 @@
-# DeepMerger
-
-<img src="https://raw.githubusercontent.com/deepmerger/deepmerger-brand/main/assets/logo/logo-dark.svg" width="64" height="64" alt="DeepMerger" />
+# DeepMerger <img src="https://raw.githubusercontent.com/deepmerger/deepmerger-brand/main/assets/logo/logo-dark.svg" width="64" height="64" alt="DeepMerger" />
 
 ## What is DeepMerger
 
